@@ -1,0 +1,7 @@
+{
+  "name": "webmotely-agent",
+  "private": true,
+  "devDependencies": {
+    "http-server": "^0.6.1"
+  }
+}

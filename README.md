@@ -1,6 +1,6 @@
 # webmotely-agent
 
-Webmotely agent for remote control (proof of concept)
+Webmotely remote control JavaScript agent (proof of concept)
 
 ## Testing
 

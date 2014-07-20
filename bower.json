@@ -1,7 +1,7 @@
 {
   "name": "webmotely-agent",
   "version": "0.1.0",
-  "description": "Webmotely agent for remote control",
+  "description": "Webmotely remote control agent",
   "license": "MIT",
   "homepage": "https://github.com/webmotely/webmotely.agent",
   "keywords": [

@@ -1,6 +1,9 @@
 {
   "name": "webmotely-agent",
   "private": true,
+  "scripts": {
+    "start": "node ./node_modules/.bin/http-server"
+  },
   "devDependencies": {
     "http-server": "^0.6.1"
   }
